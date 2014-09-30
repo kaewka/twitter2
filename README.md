@@ -1,8 +1,6 @@
 TwitterClient
 =============
 
-An example Twitter client for the CodePath exercise #3. This is an Android demo application for using the Twitter API and viewing the results in an infinite scrolling list view. 
-
 Time spent: 6 hours spent in total
 
 Completed user stories:
